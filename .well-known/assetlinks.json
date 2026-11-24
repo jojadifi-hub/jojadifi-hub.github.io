@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.hiitfit.app",
+        "sha256_cert_fingerprints": ["97:EF:D9:83:32:DF:CC:7E:50:56:AD:91:33:52:81:40:BA:B7:BA:1A:72:D7:F5:0A:6A:A0:5B:AB:9F:1E:4E:3F"]
+      }
+    }]
